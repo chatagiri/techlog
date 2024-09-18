@@ -1,4 +1,4 @@
-remote_theme: ejjoo/jekyll-theme-monos
+remote_theme: abhn/Soot-Spirits
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
