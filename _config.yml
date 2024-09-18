@@ -1,3 +1,7 @@
 remote_theme: ejjoo/jekyll-theme-monos
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-feed
+- jekyll-algolia
+- jemoji
+- toc
