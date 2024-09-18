@@ -1,5 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
-read_time: false
+remote_theme: chatagiri/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
