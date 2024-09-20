@@ -40,6 +40,7 @@ useradd: invalid user name 'abcdefghijklmnopqrstuvwxyz1234567': use --badname to
 ```
 
 - 32文字ユーザ: OK
+
 ```
 $ echo -ne abcdefghijklmnopqrstuvwxyz123456 | wc -c
 32
